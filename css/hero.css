@@ -1,0 +1,77 @@
+body{
+	margin: 0;
+	font-family: Helvetica, Arial, sans-serif;
+	font-size: 20px;
+}
+
+header{
+	background: #ff4d94;
+	text-align: center;
+	padding-top: 50px;
+	padding-bottom: 50px;
+}
+
+h1, h2{
+	font-family: 'Press Start 2P', cursive;
+}
+
+header h1{
+	color: white;
+	font-size: 50px;
+}
+
+h2 {
+    font-size: 20px;
+    color: #ff4d94;
+    padding-top: 40px;
+}
+
+header img{
+	border-radius: 170px;
+	width: 300px;
+	border: 20px solid white;
+}
+
+main{
+	max-width: 800px;
+ 	margin: 0 auto;
+ 	padding: 20px;
+}
+
+main img{
+	max-width: 100%;
+}
+
+li{
+	font-family: 'Grandstander', cursive;
+}
+
+a:hover{
+	color: #ff4d94; 
+}
+
+footer{
+	background-color:  #ff4d94; 
+	color:  white;
+	text-align: center;
+	padding: 50px;
+}
+
+footer p{
+	margin: 0;
+}
+
+footer a{
+	color: white;
+}
+
+footer a:hover{
+	color: black;
+}
+
+p.caption{
+	color: #000000;
+	font-style: bold;
+	text-align: center;
+	font-family: 'Grandstander', cursive;
+}
