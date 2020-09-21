@@ -12,7 +12,7 @@ header{
 }
 
 h1, h2{
-	font-family: 'Press Start 2P', Arial;
+	font-family: 'Press Start 2P', cursive;
 }
 
 /* header styles*/
@@ -46,7 +46,7 @@ main img{
 }
 
 li{
-	font-family: 'Grandstander', Arial;
+	font-family: 'Grandstander', cursive;
 }
 
 a:hover{
@@ -76,5 +76,5 @@ p.caption{
 	color: #000000;
 	font-style: bold;
 	text-align: center;
-	font-family: 'Grandstander', Arial;
+	font-family: 'Grandstander', cursive;
 }
