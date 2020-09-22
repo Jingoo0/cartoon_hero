@@ -51,7 +51,7 @@ main img{
 
 
 li{
-	font-family: 'Roboto', cursive;
+	font-family: 'Ranchers', serif;
 }
 
 a:hover{
@@ -81,7 +81,7 @@ p.caption{
 	color: white;
 	font-style: bold;
 	text-align: center;
-	font-family: 'Roboto', cursive;
+	font-family: 'Ranchers', serif;
 	font-size: 25px;
 }
 
