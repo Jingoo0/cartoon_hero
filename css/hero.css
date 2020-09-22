@@ -84,3 +84,16 @@ h3{
 	color: #ff4d94;
 	padding-top: 20px;
 }
+
+h4{
+	color: #ff4d94;
+	text-align: center;
+}
+
+h4 a{
+	color: #ff4d94;
+}
+
+h4 a:hover{
+	color:#ff7d94;
+}
