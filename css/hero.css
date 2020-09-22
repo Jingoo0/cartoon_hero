@@ -44,8 +44,11 @@ main{
 }
 
 main img{
+	background: #ff4d94;
 	max-width: 100%;
 }
+
+
 
 li{
 	font-family: 'Ranchers', cursive;
@@ -75,10 +78,25 @@ footer a:hover{
 }
 
 p.caption{
-	color: #000000;
+	color: white;
 	font-style: bold;
 	text-align: center;
 	font-family: 'Ranchers', cursive;
+	font-size: 25px;
+}
+
+p a{
+	color: white;
+}
+
+p a:hover{
+	color:#ff9d94;
+}
+
+h5{
+	background: #ff4d94;
+	padding-bottom: 20px;
+	color: white;
 }
 
 h3{
