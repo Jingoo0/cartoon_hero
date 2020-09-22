@@ -121,3 +121,7 @@ h4 a:hover{
 ul a{
 	color: #ff7d94;
 }
+
+p.indent{
+	text-indent: 20px;
+}
