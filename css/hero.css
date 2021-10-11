@@ -5,8 +5,8 @@ body{
 }
 
 header{
-	background: #ff4d94;
-	text-align: center;
+	background: #7E2BEC;
+	text-align: left;
 	padding-top: 50px;
 	padding-bottom: 50px;
 }
@@ -25,7 +25,7 @@ header h1{
 
 h2 {
     font-size: 20px;
-    color: #ff4d94;
+    color: #7E2BEC;
     padding-top: 40px;
 }
 
@@ -44,7 +44,7 @@ main{
 }
 
 main img{
-	background: #ff4d94;
+	background: #7E2BEC;
 	max-width: 100%;
 }
 
@@ -55,11 +55,11 @@ li{
 }
 
 a:hover{
-	color: #ff4d94; 
+	color: #7E2BEC; 
 }
 
 footer{
-	background-color:  #ff4d94; 
+	background-color:  #7E2BEC; 
 	color:  white;
 	text-align: center;
 	padding: 50px;
@@ -90,36 +90,36 @@ p a{
 }
 
 p a:hover{
-	color:#ff9d94;
+	color:#611BBF7E2BEC;
 }
 
 h5{
-	background: #ff4d94;
+	background: #7E2BEC;
 	padding-bottom: 20px;
 	color: white;
 }
 
 h6{
 	text-align: center;
-	color: #ff4d94;
+	color: #7E2BEC;
 	padding-top: 20px;
 }
 
 h4{
-	color: #ff4d94;
+	color: #7E2BEC;
 	text-align: center;
 }
 
 h4 a{
-	color: #ff4d94;
+	color: #7E2BEC;
 }
 
 h4 a:hover{
-	color:#ff7d94;
+	color:#611BBF;
 }
 
 ul a{
-	color: #ff7d94;
+	color: #7E2BEC;
 }
 
 p.indent{
@@ -129,12 +129,12 @@ p.indent{
 h3{
 	font-family: "Press Start 2P", cursive;
 	font-size: 20px;
-	color: #ff4d94;
+	color: #7E2BEC;
 	padding-top: 30px;
 }
 
 h3 a{
-	color: #ff7d94;
+	color: #7E2BEC;
 	padding-top: 30px;
 	padding-bottom: 30px;
 	font-size: 18px;
@@ -142,5 +142,5 @@ h3 a{
 }
 
 h3 a:hover{
-	color: #ff4d94;
+	color: #611BBF;
 }
